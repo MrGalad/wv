@@ -1,0 +1,12 @@
+{
+"main.magic_blast":{
+    "sounds": [{
+        "name": "magic_blast"
+      }
+    ],
+    "category": "player"
+}
+
+
+
+}
